@@ -1,6 +1,10 @@
 # Digital-Growth-Marketing-Agency
 
 ## 📌 Project Overview
+This project is the **Final Project** for the **DEPI Scholarship**
+(Digital Egypt Pioneers Initiative) — Ministry of Communications 
+and Information Technology (MCIT), Egypt.
+
 This project aims to establish a digital marketing agency that helps 
 brands and service providers achieve their goals through effective 
 marketing strategies. Brandley offers media buying, content management,
