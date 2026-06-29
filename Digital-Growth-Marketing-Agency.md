@@ -6,7 +6,8 @@
 
 <br/>
 
-<img src="images/brandley/logo-banner.jpg" alt="Brandley Banner" width="70%"/>
+<img src="images/brandley/logo-banner.jpg" alt="<img width="1080" height="556" alt="logo-banner" src="https://github.com/user-attachments/assets/f0a874c6-6c0c-4040-b55f-71a6ab6cb3f1" />
+" width="70%"/>
 
 <br/><br/>
 
