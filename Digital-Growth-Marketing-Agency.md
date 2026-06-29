@@ -6,7 +6,7 @@
 
 <br/>
 
-<img src="images/brandley/logo-banner.jpg" alt="Brandley Banner" width="100%"/>
+<img src="images/brandley/logo-banner.jpg" alt="Brandley Banner" width="70%"/>
 
 <br/><br/>
 
@@ -99,7 +99,7 @@ Throughout this project, our team handled the complete lifecycle of an agency's 
 
 <div align="center">
 
-<img src="images/brandley/logo.jpg" alt="Brandley Logo" width="220"/>
+<img src="images/brandley/logo.jpg" alt="Brandley Logo" width="200"/>
 
 ### *Brandley — The Agency Behind the Project*
 
@@ -336,16 +336,7 @@ Starting with zero digital footprint, our team established Safety Group's **enti
 #### 🖼️ Project Gallery
 
 <div align="center">
-<table>
-<tr>
-<td><img src="images/safety/page.jpg" width="100%" alt="Safety Group Facebook Page"/></td>
-<td><img src="images/safety/post1.jpg" width="100%" alt="Safety Group Post 1"/></td>
-</tr>
-<tr>
-<td><img src="images/safety/post2.jpg" width="100%" alt="Safety Group Post 2"/></td>
-<td><img src="images/safety/results.jpg" width="100%" alt="Safety Group Campaign Results"/></td>
-</tr>
-</table>
+<img src="images/safety/summary.jpg" width="100%" alt="Safety Group Project Summary"/>
 </div>
 
 <details>
@@ -415,16 +406,7 @@ Before a single advertising riyal or pound was spent, our team ensured that Muna
 #### 🖼️ Project Gallery
 
 <div align="center">
-<table>
-<tr>
-<td><img src="images/munazzem/logo.jpg" width="100%" alt="Munazzem Logo"/></td>
-<td><img src="images/munazzem/page.jpg" width="100%" alt="Munazzem Facebook Page"/></td>
-</tr>
-<tr>
-<td><img src="images/munazzem/post1.jpg" width="100%" alt="Munazzem Post 1"/></td>
-<td><img src="images/munazzem/character.jpg" width="100%" alt="Munazzem 3D Brand Mascot"/></td>
-</tr>
-</table>
+<img src="images/munazzem/summary.jpg" width="100%" alt="Munazzem Project Summary"/>
 </div>
 
 <details>
@@ -478,16 +460,7 @@ Our team transformed the client's existing Facebook page from a basic product li
 #### 🖼️ Project Gallery
 
 <div align="center">
-<table>
-<tr>
-<td><img src="images/diving/page.jpg" width="100%" alt="Diving Equipment Facebook Page"/></td>
-<td><img src="images/diving/post1.jpg" width="100%" alt="Diving Equipment Post 1"/></td>
-</tr>
-<tr>
-<td><img src="images/diving/post2.jpg" width="100%" alt="Diving Equipment Post 2"/></td>
-<td><img src="images/diving/post3.jpg" width="100%" alt="Diving Equipment Post 3"/></td>
-</tr>
-</table>
+<img src="images/diving/summary.jpg" width="100%" alt="Diving Equipment in Alx Project Summary"/>
 </div>
 
 <details>
