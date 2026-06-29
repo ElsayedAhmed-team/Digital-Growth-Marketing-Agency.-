@@ -60,6 +60,7 @@
 - [📊 Agency Statistics](#-agency-statistics)
 - [🗂️ Repository Structure](#️-repository-structure)
 - [🚀 Future Roadmap](#-future-roadmap)
+- [📎 Project Data & Links](#-project-data--links)
 - [📬 Contact & Footer](#-contact--footer)
 
 ---
@@ -638,6 +639,25 @@ Brandley/
 
 ---
 
+## 📎 Project Data & Links
+
+<div align="center">
+
+### *All project resources, client pages, and official links in one place.*
+
+</div>
+
+| Resource | Link |
+|---|---|
+| 🌐 **Brandley Facebook Page** | [![Brandley](https://img.shields.io/badge/Brandley%20Agency-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/Brandlley/) |
+| 📁 **Google Drive — Project Files** | [![Google Drive](https://img.shields.io/badge/Project%20Files-4285F4?style=flat-square&logo=googledrive&logoColor=white)](https://drive.google.com/drive/folders/1StrPl-e5fQjieuUymkobfy4QWPd9Nkmg?usp=drive_link) |
+| 🔥 **Safety Group (Client Page)** | [![Safety Group](https://img.shields.io/badge/Safety%20Group-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/Safety.Group.Official) |
+| 📚 **Munazzem (Client Page)** | [![Munazzem](https://img.shields.io/badge/Munazzem-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61587749954781) |
+| 🤿 **Diving Equipment in Alx (Client Page)** | [![Diving Equipment](https://img.shields.io/badge/Diving%20Equipment%20in%20Alx-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100050636252663) |
+| 💻 **GitHub — README File** | [![GitHub](https://img.shields.io/badge/README%20on%20GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ElsayedAhmed-team/Digital-Growth-Marketing-Agency.-/blob/main/Digital-Growth-Marketing-Agency.md) |
+
+---
+
 ## 📬 Contact & Footer
 
 <div align="center">
@@ -653,6 +673,11 @@ Brandley/
 [![Munazzem](https://img.shields.io/badge/📚%20Munazzem-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61587749954781)
 [![Diving Equipment](https://img.shields.io/badge/🤿%20Diving%20Equipment-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100050636252663)
 [![Google Drive](https://img.shields.io/badge/📁%20Project%20Files%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/drive/folders/1StrPl-e5fQjieuUymkobfy4QWPd9Nkmg?usp=drive_link)
+[![Project Data & Links](https://img.shields.io/badge/📄%20Project%20Data%20%26%20Links-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://github.com/user-attachments/files/29478476/Project_Data_Links.1.pdf)
+
+
+
+
 
 <br/>
 
