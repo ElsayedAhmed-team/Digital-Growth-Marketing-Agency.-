@@ -6,8 +6,8 @@
 
 <br/>
 
-<img src="images/brandley/logo-banner.jpg" alt="<img width="1080" height="556" alt="logo-banner" src="https://github.com/user-attachments/assets/f0a874c6-6c0c-4040-b55f-71a6ab6cb3f1" />
-" width="70%"/>
+<img width="1080" height="556" alt="logo-banner" src="https://github.com/user-attachments/assets/f0a874c6-6c0c-4040-b55f-71a6ab6cb3f1" />
+
 
 <br/><br/>
 
@@ -100,7 +100,8 @@ Throughout this project, our team handled the complete lifecycle of an agency's 
 
 <div align="center">
 
-<img src="images/brandley/logo.jpg" alt="Brandley Logo" width="200"/>
+<img width="2048" height="1992" alt="logo" src="https://github.com/user-attachments/assets/131ee111-8693-45d8-8b8c-3ae352f75fd9" />
+
 
 ### *Brandley — The Agency Behind the Project*
 
@@ -337,7 +338,8 @@ Starting with zero digital footprint, our team established Safety Group's **enti
 #### 🖼️ Project Gallery
 
 <div align="center">
-<img src="images/safety/summary.jpg" width="100%" alt="Safety Group Project Summary"/>
+<img width="1536" height="1024" alt="summary" src="https://github.com/user-attachments/assets/a3e02b57-c3ef-4fd4-a0f2-d953d94e4daa" />
+
 </div>
 
 <details>
@@ -406,8 +408,8 @@ Before a single advertising riyal or pound was spent, our team ensured that Muna
 
 #### 🖼️ Project Gallery
 
-<div align="center">
-<img src="images/munazzem/summary.jpg" width="100%" alt="Munazzem Project Summary"/>
+<div align="center"><img width="1536" height="1024" alt="summary (1)" src="https://github.com/user-attachments/assets/05e8f1bc-2e92-4d92-87f2-0b3b997e52b4" />
+
 </div>
 
 <details>
@@ -461,7 +463,8 @@ Our team transformed the client's existing Facebook page from a basic product li
 #### 🖼️ Project Gallery
 
 <div align="center">
-<img src="images/diving/summary.jpg" width="100%" alt="Diving Equipment in Alx Project Summary"/>
+<img width="1536" height="1024" alt="summary (2)" src="https://github.com/user-attachments/assets/2627eac9-c440-4e03-b1e8-603b8e7ba904" />
+
 </div>
 
 <details>
