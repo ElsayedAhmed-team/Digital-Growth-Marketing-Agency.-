@@ -105,6 +105,10 @@ Throughout this project, our team handled the complete lifecycle of an agency's 
 
 ### *Brandley — The Agency Behind the Project*
 
+<br/>
+
+[![Visit Brandley on Facebook](https://img.shields.io/badge/🌐%20Visit%20Brandley%20on%20Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/Brandlley/)
+
 </div>
 
 As part of this graduation project, our team founded and launched a real digital marketing agency under the name **Brandley**.
@@ -314,6 +318,10 @@ This client started completely from scratch — with no prior digital presence.
 </tr>
 </table>
 
+#### 🔗 Client Page
+
+[![Safety Group on Facebook](https://img.shields.io/badge/🔥%20Safety%20Group%20—%20Facebook%20Page-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/Safety.Group.Official)
+
 #### 🎯 Campaign Objective
 **Facebook Page Likes**
 
@@ -398,6 +406,10 @@ Munazzem is an educational management system that helps teachers and educational
 </tr>
 </table>
 
+#### 🔗 Client Page
+
+[![Munazzem on Facebook](https://img.shields.io/badge/📚%20Munazzem%20—%20Facebook%20Page-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61587749954781)
+
 #### 🧸 Brand Character
 
 As part of Munazzem's brand identity, our creative team developed a **completely original, AI-generated 3D brand mascot** — a unique character designed specifically to represent Munazzem's friendly, organized, and tech-forward personality across all social media and marketing materials.
@@ -455,6 +467,10 @@ A specialized company selling premium scuba diving equipment and accessories in 
 </td>
 </tr>
 </table>
+
+#### 🔗 Client Page
+
+[![Diving Equipment on Facebook](https://img.shields.io/badge/🤿%20Diving%20Equipment%20—%20Facebook%20Page-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100050636252663)
 
 #### 🏆 Achievement
 
@@ -588,6 +604,12 @@ AI is woven into the **research**, **planning**, and **creative** stages, while 
 
 ## 🗂️ Repository Structure
 
+<div align="center">
+
+[![Google Drive — Project Files](https://img.shields.io/badge/📁%20Google%20Drive%20—%20Project%20Files-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/drive/folders/1StrPl-e5fQjieuUymkobfy4QWPd9Nkmg?usp=drive_link)
+
+</div>
+
 ```
 Brandley/
 ├── 🎨 Brand Identity/
@@ -623,6 +645,14 @@ Brandley/
 <br/>
 
 ### 💖 Developed with passion by **Team Brandley**
+
+<br/>
+
+[![Brandley](https://img.shields.io/badge/🌐%20Brandley%20Agency-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/Brandlley/)
+[![Safety Group](https://img.shields.io/badge/🔥%20Safety%20Group-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/Safety.Group.Official)
+[![Munazzem](https://img.shields.io/badge/📚%20Munazzem-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61587749954781)
+[![Diving Equipment](https://img.shields.io/badge/🤿%20Diving%20Equipment-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100050636252663)
+[![Google Drive](https://img.shields.io/badge/📁%20Project%20Files%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/drive/folders/1StrPl-e5fQjieuUymkobfy4QWPd9Nkmg?usp=drive_link)
 
 <br/>
 
